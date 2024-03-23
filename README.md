@@ -45,5 +45,3 @@ Feel free to fork this repository and contribute by submitting pull requests. Yo
 ## License
 
 Project is open-source and free for personal and commercial use.
-
-This README provides an overview of the script's functionality, data handling, and model training processes, along with instructions for setup and usage.
